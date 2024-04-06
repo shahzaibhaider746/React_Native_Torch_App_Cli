@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   instructions: {
     textAlign: 'center',
     color: '#333333',
-    marginBottom: 50,
+    marginBottom: 5,
 
   },
 });
